@@ -1,0 +1,5 @@
+homepage: "https://github.com/semihmasat/url_query_modifier"
+documentation: "https://github.com/semihmasat/url_query_modifier"
+versions:
+  - sha: 1b27e73c8678a09eeddc13154cb9bb09ea313481
+    changeNotes: Initial release.
